@@ -1,0 +1,17 @@
+[
+  {
+    "scenario": "Using lab computer for assigned research",
+    "classification": "allowed",
+    "reason": "Aligned with learning goals."
+  },
+  {
+    "scenario": "Sharing passwords with colleagues",
+    "classification": "blocked",
+    "reason": "Credential sharing creates security risk."
+  },
+  {
+    "scenario": "Installing unapproved software",
+    "classification": "restricted",
+    "reason": "Requires authorization and compatibility review."
+  }
+]

@@ -1,0 +1,11 @@
+[project]
+name = "acceptable-use-policy-simulator"
+version = "0.1.0"
+description = "Editable JSON rules simulator for classifying synthetic IT-use situations as allowed, restricted, or blocked."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Alberto Mateus P. da Gama" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
